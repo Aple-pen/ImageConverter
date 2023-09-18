@@ -1,0 +1,11 @@
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\bin\Release\imageTranslate.exe.config
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\bin\Release\imageTranslate.exe
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\bin\Release\imageTranslate.pdb
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.csproj.AssemblyReference.cache
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.csproj.SuggestedBindingRedirects.cache
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.Form1.resources
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.Properties.Resources.resources
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.csproj.GenerateResource.cache
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.csproj.CoreCompileInputs.cache
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.exe
+C:\Users\eunggi\Documents\Test Code\etc\imageTranslate\imageTranslate\obj\Release\imageTranslate.pdb
